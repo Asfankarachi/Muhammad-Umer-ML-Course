@@ -1,0 +1,23 @@
+# L07 — A Practice Audit for Your Midterm Project
+
+**Course:** ITAI 4374 — Neuroscience as a Model for AI Systems
+**Instructor:** Professor Patricia McManus
+**Student:** Muhammad Umer | Houston City College | Spring 2026
+
+## Overview
+
+This lab was a structured practice run for the Midterm Bio-Inspired AI Audit. The goal was to select an AI system, design neuroscience-grounded experiments, and document findings in audit format.
+
+## What I Built
+
+I conducted a pilot audit of ChatGPT (GPT-4o) using three experiments mapped to course modules: Module 02 (Brain Architecture), Module 03 (Perception and Vision), and Module 04 (Memory and Learning).
+
+## Experiments Conducted
+
+- Module 02: Tested sequential vs. parallel processing with five simultaneous tasks
+- Module 03: Presented Necker Cube and spinning dancer illusion to probe bistable perception
+- Module 04: Tested within-session memory retention and cross-session consolidation failure
+
+## What I Learned
+
+The practice audit taught me to distinguish between what an AI system knows about a phenomenon versus whether it actually exhibits that phenomenon. This distinction became the foundation of the full midterm audit.
