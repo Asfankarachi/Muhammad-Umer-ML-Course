@@ -1,0 +1,24 @@
+# Midterm — Bio-Inspired AI Audit (Pilot)
+
+**Course:** ITAI 4374 — Neuroscience as a Model for AI Systems
+**Instructor:** Professor Patricia McManus
+**Student:** Muhammad Umer | Houston City College | Spring 2026
+
+## Overview
+
+This midterm was a pilot neuroscience-based audit of ChatGPT (GPT-4o), evaluating the system against principles from Modules 02, 03, and 04.
+
+## AI System Audited
+
+- System: ChatGPT (GPT-4o) by OpenAI
+- Access: chat.openai.com, free tier
+
+## Experiments
+
+- Module 02: Five simultaneous tasks tested sequential vs. parallel processing
+- Module 03: Necker Cube and spinning dancer illusion tested perceptual ambiguity
+- Module 04: Within-session retention and cross-session memory failure tested
+
+## Key Finding
+
+ChatGPT has no perceptual experience, no cross-session memory, and produces outputs that mimic parallelism through high-speed serial generation — significant divergences from biological intelligence.
