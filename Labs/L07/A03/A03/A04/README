@@ -1,0 +1,23 @@
+# A04 — Exploring Spiking Neurons with Wolfram
+
+**Course:** ITAI 4374 — Neuroscience as a Model for AI Systems
+**Instructor:** Professor Patricia McManus
+**Student:** Muhammad Umer | Houston City College | Spring 2026
+
+## Problem
+
+This assignment used the Wolfram Language to explore spiking neuron dynamics, visualizing how individual neuron parameters affect population-level firing behavior.
+
+## Approach and Methods
+
+Using Wolfram's differential equation solvers, I modeled a network of leaky integrate-and-fire neurons with configurable synaptic weights, input currents, and noise levels. I ran simulations varying one parameter at a time to isolate its effect.
+
+Parameters varied:
+- Membrane time constant
+- Spike threshold voltage
+- Synaptic weight magnitude
+- Background noise current
+
+## Results and Interpretation
+
+Increasing background noise shifts a network from sparse irregular firing to dense synchronized bursting. This synchronized bursting is analogous to epileptic activity in biological neural tissue, showing how small parameter changes can produce qualitatively different emergent behaviors in neural systems.
