@@ -1,0 +1,23 @@
+# L04 — Simulating Spiking Neurons
+
+**Course:** ITAI 4374 — Neuroscience as a Model for AI Systems
+**Instructor:** Professor Patricia McManus
+**Student:** Muhammad Umer | Houston City College | Spring 2026
+
+## Overview
+
+This lab implemented the Leaky Integrate-and-Fire (LIF) neuron model, capturing membrane potential buildup and threshold-triggered action potentials.
+
+## What I Built
+
+I coded a LIF neuron simulation from scratch in Python. The model tracked membrane voltage over time, leaked charge according to a time constant, and fired an action potential when voltage crossed a defined threshold.
+
+## Tools Used
+
+- Python 3
+- NumPy for numerical integration
+- Matplotlib for membrane voltage traces and spike raster plots
+
+## What I Learned
+
+Building the LIF model gave me a concrete understanding of why neurons have refractory periods and why the relationship between input current and firing rate is nonlinear. The membrane time constant controls sensitivity to brief versus sustained inputs, which parallels how recurrent neural networks handle temporal dependencies.
