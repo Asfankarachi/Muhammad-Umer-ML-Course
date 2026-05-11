@@ -1,0 +1,21 @@
+# A03 — Bridging Neuroscience and Artificial Intelligence
+
+**Course:** ITAI 4374 — Neuroscience as a Model for AI Systems
+**Instructor:** Professor Patricia McManus
+**Student:** Muhammad Umer | Houston City College | Spring 2026
+
+## Problem
+
+This assignment examined specific pathways through which neuroscience research has influenced AI system design and proposed directions for deeper integration going forward.
+
+## Approach and Methods
+
+I selected three case studies where neuroscience directly shaped AI architecture:
+
+1. Attention mechanisms — derived from research on selective attention in the primate visual system
+2. Dropout regularization — linked to stochastic firing patterns of biological neurons
+3. Predictive coding — a neuroscience theory being explored as an alternative to backpropagation
+
+## Results and Interpretation
+
+The most productive transfers from neuroscience to AI occur when a specific computational problem maps cleanly onto a known biological solution. Attention mechanisms succeeded because the problem of selectively weighting inputs is well-defined in both domains. Neuroscience is most valuable to AI not as a blueprint to copy but as a source of principles to adapt.
