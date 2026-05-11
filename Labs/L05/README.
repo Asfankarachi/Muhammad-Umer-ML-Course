@@ -1,0 +1,24 @@
+# L05 — Bio-Inspired Perception Pipeline
+
+**Course:** ITAI 4374 — Neuroscience as a Model for AI Systems
+**Instructor:** Professor Patricia McManus
+**Student:** Muhammad Umer | Houston City College | Spring 2026
+
+## Overview
+
+This lab built a bio-inspired visual perception pipeline modeled on the hierarchical processing stages of the human visual cortex, from low-level edge detection in V1 to higher-level feature integration.
+
+## What I Built
+
+I constructed a multi-stage image processing pipeline mimicking the ventral visual stream. The first stage applied Gabor filters to detect oriented edges, replicating simple cells in V1. The second stage pooled responses across orientations to build tolerance to small shifts, mimicking complex cells.
+
+## Tools Used
+
+- Python 3
+- OpenCV and NumPy for image processing
+- Gabor filter bank for edge detection
+- Matplotlib for visualizing filter responses
+
+## What I Learned
+
+Modern convolutional neural networks are architecturally derived from the visual cortex. Seeing Gabor filters produce responses nearly identical to what electrophysiology measures in V1 neurons reinforced how directly neuroscience has shaped deep learning design.
